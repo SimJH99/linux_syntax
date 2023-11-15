@@ -65,5 +65,3 @@ mv test_dir sim_dir/second_dir
 
 # head는 cat처럼 파일을 출력하는것. 상위 n행 조회
 # tail은 하위 n행 조회
-
-# 
