@@ -13,6 +13,6 @@ do
     for b in {1..100}
     do
     echo "hello world form file$a" >> file$a.txt
-done
+    done
 done
 echo practice completed 출력
